@@ -5,7 +5,6 @@
 
 ### U Net Model
 
-![img/u-net-architecture.png](img/u-net-architecture.png)
 
 This deep neural network is implemented with Keras functional API, and is based on the python implemenation of the U net paper discussed. 
 https://github.com/zhixuhao/unet
