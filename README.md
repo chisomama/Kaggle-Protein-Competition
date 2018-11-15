@@ -11,3 +11,6 @@ https://github.com/zhixuhao/unet
 
 Output from the network is a 512*512 which represents mask that should be learned. Sigmoid activation function
 makes sure that mask pixels are in \[0, 1\] range.
+
+
+## Base Line ResNet
