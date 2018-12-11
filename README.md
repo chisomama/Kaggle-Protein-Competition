@@ -13,6 +13,10 @@ Output from the network is a 512*512 which represents mask that should be learne
 makes sure that mask pixels are in \[0, 1\] range.
 
 
+## Data Processing Folder
+
+	##EplorationAndBaseline.ipynb
+
 ## Base Line ResNet
 The baseline architecture is a ResNet-34 being implemented with fastai. The specific loss function utilized with this model is the focal loss. The focal loss function is designed to be a proper loss function for problems that involves large data imbalances. With 28 label categories and a single label, Nucleoplasm, appearing in over ⅓ of the data entries, it’s helps greatly to have a loss function that is geared towards these kinds of data imbalances. The focal loss essentially does this by focusing on the sparse set of less frequently occurring data and doesn’t allow the well-classified examples to overweight the loss assigned to them.
 	
