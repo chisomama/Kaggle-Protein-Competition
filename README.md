@@ -15,7 +15,7 @@ makes sure that mask pixels are in \[0, 1\] range.
 
 # Data Processing Folder
 
-##        EplorationAndBaseline.ipynb
+####        EplorationAndBaseline.ipynb
 		-A notebook provided by an outside user Allunia onto the Kaggle website. The notebook was found to be incredibly useful in order to get a firm understanding of the data provided for the Protein Atlas Kaggle competition and helped influence our team in furthering our research.
 
 ## Base Line ResNet
