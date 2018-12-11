@@ -39,6 +39,13 @@ Since a 4-channel input of RGBY is being utilized for a pretrained model accusto
  # 						Papers and Illustrations Folder
  
  
-   #### .      Project_Milestone.pdf
+   ####       Project_Milestone.pdf
  -This is our team's project milestone paper that was prepared halfway through the project.
+ 
+   ####       FinalWriteUp.pdf
+ -This is our team's formal write up for the project with everything from introduction explanation to models and results.
+ 
+   ####       Final_Poster.pdf
+ -This is our team's poster presentation of results and discoveries.
+ 
 
