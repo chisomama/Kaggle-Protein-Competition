@@ -15,6 +15,13 @@ makes sure that mask pixels are in \[0, 1\] range.
 
 # Data Processing Folder
 
+#### .      Feature_Augmentation.ipynb
+            -This notebook is our explroation of our feature augmentation exploration and the eventual specific feature augmentations that were implemented. The eventual feature augmentations that were implemented include normaed gradient using Sobel kernel, directional gradient, normed gradient using Sobel kernel and thresholds, and feature engineering with blocks. 
+
+#### .      Data_Augmentation.ipynb
+            -This notebook covers the data augmentation that was used during the project. With the large data skew provided in the training data our team attempted to augment the underpresented data. This was performed by subjecting all targets with less than 100 occurences to 11 data augmentations resulting in the generation of over 250,000 unique additional training images. The augmentations ranged from combinations of flips and rotations.
+
+
 ####        EplorationAndBaseline.ipynb
 		-A notebook provided by an outside user Allunia onto the Kaggle website. The notebook was found to be incredibly useful in order to get a firm understanding of the data provided for the Protein Atlas Kaggle competition and helped influence our team in furthering our research.
 
